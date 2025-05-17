@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="app.py" />
+    <Compile Include="classifier_app.py" />
     <Compile Include="gui_app.py" />
     <Compile Include="predict.py" />
     <Compile Include="train.py" />
